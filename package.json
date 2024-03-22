@@ -9,6 +9,7 @@
     "url": "https://github.com/vietvu94/tea-xyz-dep2"
   },
   "dependencies": {
+    "@vietvu/tea-xyz-dep1": "^1.0.0",
     "@vietvu/tea-xyz-quest": "^2.0.0",
     "eslint": "^8.46.0",
     "tea-cup-join": "^1.5.2",
